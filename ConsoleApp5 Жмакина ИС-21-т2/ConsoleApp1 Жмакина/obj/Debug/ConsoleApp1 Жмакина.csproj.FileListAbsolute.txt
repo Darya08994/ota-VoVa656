@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\ИС-21-Т2\ConsoleApp5 Жмакина ИС-21-т2\ConsoleApp1 Жмакина\obj\Debug\ConsoleApp1 Жмакина.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ИС-21-Т2\ConsoleApp5 Жмакина ИС-21-т2\ConsoleApp1 Жмакина\obj\Debug\ConsoleApp1 Жмакина.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ИС-21-Т2\ConsoleApp5 Жмакина ИС-21-т2\ConsoleApp1 Жмакина\obj\Debug\ConsoleApp1 Жмакина.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ИС-21-Т2\ConsoleApp5 Жмакина ИС-21-т2\ConsoleApp1 Жмакина\bin\Debug\ConsoleApp1 Жмакина.exe.config
+C:\Users\student\Desktop\ИС-21-Т2\ConsoleApp5 Жмакина ИС-21-т2\ConsoleApp1 Жмакина\bin\Debug\ConsoleApp1 Жмакина.exe
+C:\Users\student\Desktop\ИС-21-Т2\ConsoleApp5 Жмакина ИС-21-т2\ConsoleApp1 Жмакина\bin\Debug\ConsoleApp1 Жмакина.pdb
+C:\Users\student\Desktop\ИС-21-Т2\ConsoleApp5 Жмакина ИС-21-т2\ConsoleApp1 Жмакина\obj\Debug\ConsoleApp1 Жмакина.exe
+C:\Users\student\Desktop\ИС-21-Т2\ConsoleApp5 Жмакина ИС-21-т2\ConsoleApp1 Жмакина\obj\Debug\ConsoleApp1 Жмакина.pdb
